@@ -1,0 +1,143 @@
+---
+title: "Module Timetable - FP041"
+author: "Jomar Alcantara"
+format: pdf
+editor: visual
+---
+
+## Module Timetable
+
+| Week | Date | Topic | Deadlines  |
+|---|---|---|---|---|
+| 1 | 6th Feb '23  | Introduction to Data Science and Scientific programming in Python |   |
+| 2 | 13th Feb '23  | Introduction to Data Science and Scientific programming in Python |   |
+| 3 | 27th Feb '23  | Introduction to Mathematical Modelling  | Assessment 1 Released  |
+| 4 | 6th Mar '23  | Modelling using Functions and Structured Data   | Assessment 1 Due   |
+| 5 | 13th Mar '23  | Basics of Descriptive and Inferential Analysis  | Assessment 2 Released  |
+| 6 | 20th Mar '23  | Statistics fundamentals with Python  | Assessment 2 Due  |
+| 7 | 27th Mar '23  | Modelling with linear regression  | Assessment 3 Released  |
+| 8 | 24th Apr '23  | Big data analytics with Python  | Assessment 3 Due  |
+| 9 | 1 May '23 | TBC  |   |
+| 10 | 8 May '23 | TBC  |   |
+| 11 | 15 May '23 | TBC  |   |
+| 12 | 22 May '23 | TBC  |   |
+
+: Assessment Dates {tbl-colwidths="[10, 20, 50, 20]"}
+
+{{< pagebreak >}}
+
+## Assessment Deadlines
+
+### Assessment 1
+Assessment Name: Question Set 1
+
+Assessment type: Question set 
+
+Weighting: 30%
+
+Assessment due on: 02/03/2023
+
+Feedback and marks will be released via Tabula on the 30/03/2023
+
+The materials being assessed is:
+
+  - Fundamentals and logic of programming 
+  - Python operators, functions, packages, and graphs
+  - Introduction to Mathematical Modelling 
+  - Data structures and functions in building a real-world model
+
+The module learning outcome(s) being assessed is:
+
+  - Take a real-life problem and, making the necessary assumptions, translate it into a mathematical model
+  - Formulate mathematical problems, identify suitable algorithms to solve them, and implement them in a program written in a suitable programming language
+  - Interpret and evaluate the outputs of a mathematical model in the context of the original situation
+  - Demonstrate that a mathematical model can be refined by considering its outputs and simplifying assumptions
+  
+{{< pagebreak >}}
+
+### Assessment 2
+
+Assessment Name: Question set 2
+
+Assessment type: Question set
+
+Weighting: 30%
+
+Assessment due on: 22/03/2023
+
+Feedback and marks will be released via Tabula on: 21/04/2022
+
+The materials being assessed are
+
+ - Descriptive data analysis (distributions, measure of central tendency, measure of spread)
+ - Exploratory data analysis and machine learning using Python
+
+The module learning outcome(s) being assessed is:
+
+ - Demonstrate that a mathematical model can be refined by considering its outputs and simplifying assumptions.
+ - Interpret and evaluate the outputs of a mathematical model in the context of the original situation
+ - Take a real-life problem and, making the necessary assumptions, translate it into a mathematical model
+
+{{< pagebreak >}}
+
+### Assessment 3
+
+Assessment Name: Data Science Case study 
+
+Assessment type: Case study
+
+Weighting: 40%
+
+Assessment due on: 24/04/2022
+
+Feedback and marks will be released via Tabula on: 23/05/2023
+
+The materials being assessed are everything discussed in the seminars and lectures.
+
+The module learning outcome(s) being assessed is:
+
+ - Critically read a real-world problem, analyse the data provided, and build a mathematical model.
+ - Using concepts from machine learning, clean and organize data, visualize it to draw preliminary conclusion. 
+ - Build simplifying assumptions around the data provided and perform statistical analysis.
+ - Demonstrate that a mathematical (statistical) model can be refined by considering its outputs and simplifying assumptions.
+ - Interpret and evaluate the outputs of a mathematical model in the context of the original situation.
+ - Write a clear and concise report presenting your analysis, findings, and recommendation. 
+ 
+{{< pagebreak >}} 
+ 
+## What you CAN and CANNOT have help with?
+### Assessments 1 and 2
+
+You CAN have help to:
+
+- Check your understanding of assessments.
+- Identify resources that will help you with assessments.
+- Clarify questions and help with the mathematical and/or conceptual side of the coding problems.
+- Clarify the mark scheme.
+- Provide worked examples which are similar to the problems in assessments.
+- Define and explain terminology relating to the assessments.
+
+ You CANNOT have help to:
+
+- Plan or write code or code snippets for you.
+- Debug your code.
+- Give you hints to help you solve the coding problems.
+- Check your work and assess it's quality.
+
+### Assessment 3
+
+You CAN have help to:
+
+- Check your understanding of assessments.
+- Identify resources that will help you with assessments.
+- Clarify questions and help with the mathematical and/or conceptual side of the coding problems.
+- Clarify the mark scheme.
+- Provide worked examples which are similar to the problems in assessments.
+- Define and explain terminology relating to the assessments.
+
+ You CANNOT have help to:
+
+- Plan or write code or code snippets for you.
+- Debug your code.
+- Give you hints to help you solve the coding problems.
+- Check your work and assess it's quality.

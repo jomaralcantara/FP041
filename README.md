@@ -3,7 +3,6 @@ This is the github page for Scientific Programming and Mathematical Modelling
 
 ## TO DO
 - Create Timetable
-- Create Introduction
 
 ## Changelog
 | Version Number  | Date | Changes |

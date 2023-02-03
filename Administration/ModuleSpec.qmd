@@ -1,0 +1,86 @@
+---
+title: "Module Specification - FP041"
+author: "Jomar Alcantara"
+format: pdf
+editor: visual
+---
+
+## Module aims
+
+To develop an understanding of the basic principles of mathematical models and demonstrate basic competence in computer programming.
+
+This is an interdisciplinary module which links Mathematics, Data Science, and Computer Science.
+
+## Outline syllabus
+
+This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.
+
+1. Introduction to data science and scientific programming in Python
+  i) What is data science?
+  ii) Introduction to Python
+  iii) The use of Python for data scientist
+  iv) Variables and data types
+  v) Operation and function
+  vi) Python data science libraries: numpy, panda, matplotlib
+
+2. Introduction to Mathematical Modelling
+  i) Different types of model
+  ii)  Mathematical model
+  iii)  Applications and classifications of mathematical model
+  iv)  Limitations of mathematical model
+  v) 4 stages of mathematical modelling
+  vi) Applying mathematical modelling to provide insights and predictions to real world problems
+
+3. Modelling using functions and structured data
+  i) Mathematical expression, equations, and functions
+  ii) Understanding the difference between equations and functions
+  iii) Recognizing functions from relations, graph, structured data, and word problem
+  iv) Constructing a linear function from structured data and word problem
+  v) System of linear model
+
+4. Basics of descriptive and inferential analysis
+  i) Empirical data and statistics
+  ii) Using measures of central tendency and measures of spread to summarize and describe data
+  iii) Population and samples
+  iv) Using interval estimates and hypothesis testing to make inferences about the population from which the sample is drawn
+  v) P-value and confidence interval
+  vi) Limitations of descriptive and inferential statistics
+
+5. Statistics fundamentals with Python
+  i) Importing data sets to analyse in Python (datasets, csv files, and excel spreadsheet)
+  ii) Using describe and summarize function in python to do descriptive analysis
+  iii) Illustrate data using data visualization tools
+  iv) Using statistical functions in Python for measures of central tendency and spread
+  v) Measures of correlations between pairs of data
+
+6. Modelling with linear regression
+  i) Introduction to simple linear regression
+  ii) Dependent and independent variables
+  iii) Coefficient estimate
+  iv) Using Ordinary Least Square method to estimate the values of the coefficients
+  v) Making predictions with simple linear regression
+
+7. Big data analytics with python
+  i) What is big data?
+  ii) Importing and analysing large data sets in Python
+  iii) Model development
+  iv) Preparing data for linear regression in Python
+  v) Using python to build a linear regression model from large data sets.
+  vi) Making predictions based on the model developed.
+
+## Learning outcomes
+
+By the end of the module, students should be able to:
+
+- Critically observe a real-world problem and applying the 4-stages of mathematical modelling (building, analysing, validating, and applying) to provide insights and predictions.
+- Demonstrate understanding of basic mathematical concepts in data science, relating to linear function, descriptive analysis, inferential analysis, and linear regression.
+- Utilize Python to prepare data for analysis, perform simple data analysis, create meaningful data visualization, and make prediction from data.
+- Produce a rigorous analytical report which considers a broad range of mathematical and statistical methods to describe, analyse, extrapolate, and apply big data.
+
+## Indicative reading list
+
+- Bender, E.A., 2012. An introduction to mathematical modeling. Courier Corporation.
+- Hill, C., 2016. Learning scientific programming with Python. Cambridge University Press.
+- Langtangen, H.P. and Langtangen, H.P., 2009. A primer on scientific programming with Python (Vol. 2). Berlin, Germany: Springer.
+- Matthes, E., 2016. Python Crash Course: A Hands-On, Project-Based, Introduction to Programming. No Starch Press.
+- Nelli, F., 2015. Python Data Analytics: Data Analysis and Science using Pandas, matplotlib, and the Python Programming language. Apress.
